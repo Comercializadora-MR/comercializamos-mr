@@ -59,7 +59,8 @@
     "sitemapSwitcher": true,
     "siteUrl": "https://comercializamos-mr.com",
     "sitemapSwitcherAuto": "on",
-    "gdpr": false
+    "gdpr": false,
+    "google-analytics": "UA-169186118-1"
   },
   "pages": {
     "Shop.html": {
