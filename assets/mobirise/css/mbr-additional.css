@@ -1702,124 +1702,93 @@ section.lazy-placeholder:after {
 .cid-qTkA127IK8 {
   background-color: #073b4c;
 }
-.cid-s1CZnOsiGB {
-  padding-top: 90px;
+.cid-s1KqsRvQfu {
+  padding-top: 45px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-s1CZnOsiGB .title {
-  padding-bottom: 2.5rem;
-}
-.cid-s1CZnOsiGB h4 {
-  width: 85%;
-  font-weight: 500;
+.cid-s1KqsRvQfu h2 {
   margin-bottom: 0;
 }
-.cid-s1CZnOsiGB .bottom-line p {
-  color: #767676;
+.cid-s1KqsRvQfu h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  width: 80%;
 }
-.cid-s1CZnOsiGB .card-wrapper {
-  background-color: #ffffff;
-  background-color: transparent;
+.cid-s1KqsRvQfu p {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-s1KqsRvQfu .card-wrapper {
+  border-top: 1px solid #232323;
+  background-color: #efefef;
   position: relative;
   justify-content: unset;
 }
-.cid-s1CZnOsiGB .card-wrapper .card-box {
+.cid-s1KqsRvQfu .card-wrapper .card-box {
+  padding: 2rem 1rem;
   width: 100%;
 }
-.cid-s1CZnOsiGB .card-wrapper .card-box .wrapper {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;
-}
-.cid-s1CZnOsiGB .card-wrapper .card-box .wrapper .top-line {
-  width: 100%;
+.cid-s1KqsRvQfu .card-wrapper .card-box .top-line {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.cid-s1CZnOsiGB .card-wrapper .card-box .wrapper .bottom-line {
-  width: 85%;
+.cid-s1KqsRvQfu .card-wrapper .card-box .bottom-line {
+  width: 70%;
 }
 @media (max-width: 767px) {
-  .cid-s1CZnOsiGB .card-wrapper .card-box .wrapper .bottom-line {
+  .cid-s1KqsRvQfu .card-wrapper .card-box .bottom-line {
     width: 100%;
   }
-  .cid-s1CZnOsiGB .card-wrapper .card-box .wrapper .bottom-line p {
+  .cid-s1KqsRvQfu .card-wrapper .card-box .bottom-line p {
     text-align: center;
     margin: 1rem 0 0 0;
   }
 }
-@media (max-width: 767px) {
-  .cid-s1CZnOsiGB .card.pb-5 {
-    padding-bottom: 2rem !important;
-  }
-  .cid-s1CZnOsiGB .wrapper {
-    padding-top: 1rem;
-  }
-}
-.cid-s1CZmKdTLB {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-s1Krzolndl {
+  padding-top: 30px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-s1CZmKdTLB .title {
-  padding-bottom: 2.5rem;
-}
-.cid-s1CZmKdTLB h4 {
-  width: 85%;
-  font-weight: 500;
+.cid-s1Krzolndl h2 {
   margin-bottom: 0;
 }
-.cid-s1CZmKdTLB .bottom-line p {
-  color: #767676;
+.cid-s1Krzolndl h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  width: 80%;
 }
-.cid-s1CZmKdTLB .card-wrapper {
-  background-color: #ffffff;
-  background-color: transparent;
+.cid-s1Krzolndl p {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-s1Krzolndl .card-wrapper {
+  border-top: 1px solid #232323;
+  background-color: #efefef;
   position: relative;
   justify-content: unset;
 }
-.cid-s1CZmKdTLB .card-wrapper .card-box {
+.cid-s1Krzolndl .card-wrapper .card-box {
+  padding: 2rem 1rem;
   width: 100%;
 }
-.cid-s1CZmKdTLB .card-wrapper .card-box .wrapper {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;
-}
-.cid-s1CZmKdTLB .card-wrapper .card-box .wrapper .top-line {
-  width: 100%;
+.cid-s1Krzolndl .card-wrapper .card-box .top-line {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.cid-s1CZmKdTLB .card-wrapper .card-box .wrapper .bottom-line {
-  width: 85%;
+.cid-s1Krzolndl .card-wrapper .card-box .bottom-line {
+  width: 70%;
 }
 @media (max-width: 767px) {
-  .cid-s1CZmKdTLB .card-wrapper .card-box .wrapper .bottom-line {
+  .cid-s1Krzolndl .card-wrapper .card-box .bottom-line {
     width: 100%;
   }
-  .cid-s1CZmKdTLB .card-wrapper .card-box .wrapper .bottom-line p {
+  .cid-s1Krzolndl .card-wrapper .card-box .bottom-line p {
     text-align: center;
     margin: 1rem 0 0 0;
   }
-}
-@media (max-width: 767px) {
-  .cid-s1CZmKdTLB .card.pb-5 {
-    padding-bottom: 2rem !important;
-  }
-  .cid-s1CZmKdTLB .wrapper {
-    padding-top: 1rem;
-  }
-}
-.cid-s1CZmKdTLB .card-title {
-  text-align: left;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
