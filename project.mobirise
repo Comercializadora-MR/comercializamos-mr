@@ -62,7 +62,7 @@
     "siteUrl": "https://comercializamos-mr.com",
     "sitemapSwitcherAuto": "on",
     "gdpr": false,
-    "google-analytics": "UA-169186118-1\n\n<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n<div class=\"elfsight-app-52b58198-8c2a-4f4c-9e74-da619ec844d7\"></div>"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-169186118-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-169186118-1');\n</script>\n\n"
   },
   "pages": {
     "Shop.html": {
